@@ -5,6 +5,6 @@
   <li>Liskov substitution principle - q(x) - x of type T - provable then q(y) y of type S & is a substype of T - also provable.
     From provided example - if we can pass into this function the human type then we can pass into this function also the teacher type and the student type and that is true because they both implement that interface by inheriting those fields and thos methods</li>
   <li>Interface Segragation Principle - a client should never be forced to implement an interfacetha it doesn't use</li>
-  <li>Dependency inversion principle - entities must depend on abstractions, not on concretions</li>
+  <li>Dependency inversion principle - entities must depend on abstractions, on interfaces, not on concretions, not on specifics</li>
 </ul>
 https://www.youtube.com/watch?v=AKdvlr-RzEA
