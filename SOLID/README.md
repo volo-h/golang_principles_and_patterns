@@ -8,3 +8,9 @@
   <li>Dependency inversion principle - entities must depend on abstractions, on interfaces, not on concretions, not on specifics</li>
 </ul>
 https://www.youtube.com/watch?v=AKdvlr-RzEA
+
+
+### SOLID
+  https://www.youtube.com/playlist?list=PLmqFxxywkatQNWLG1IZYUhKoQrnuZHqaK
+  https://www.youtube.com/playlist?list=PLNkWIWHIRwMGlOBjDYTeqnNcuZ2cH1_7-
+  https://www.youtube.com/watch?v=TxZwqVTaCmA
